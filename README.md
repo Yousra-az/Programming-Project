@@ -23,12 +23,12 @@ Deze webapplicatie is ontwikkeld voor de **Career Launch beurs** aan de **Erasmu
 ## 👨‍💻 Team
 Dit project is gerealiseerd door studenten van het eerste jaar Toegepaste Informatica aan de Erasmushogeschool Brussel.
 
-- Ben Ali Idrissi Imad 
 - Libenge Masta 
 - Laghzaoui Adam
 - Azanay Yousra
 - Ouanane Omar
 - Ben Mohand Nohman
+- Diouri zl jadid Yanis
   
 
 ## 📆 Deadline
